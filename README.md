@@ -23,7 +23,7 @@ This repository contains code for an AI-powered speech therapy game designed to 
 ### Clone the Repository:
 
 ```sh
-git clone https://github.com/kawin/AI_Speach_Therapy_Game.git
+git clone https://github.com/Kawinkawin/AI-Speech-Therapy-Game.git
 ```
 
 ### Install Dependencies:

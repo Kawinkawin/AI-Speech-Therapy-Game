@@ -29,7 +29,7 @@ git clone https://github.com/Kawinkawin/AI-Speech-Therapy-Game.git
 ### Install Dependencies:
 
 ```sh
-cd ai-speech-therapy-game
+cd AI-Speech-Therapy-Game
 npm install  # or pip install -r requirements.txt if using Python
 ```
 

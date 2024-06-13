@@ -18,6 +18,10 @@ This repository contains code for an AI-powered speech therapy game designed to 
 - **Backend**: Node.js/Python (or your preferred backend technology) for data management.
 - **Database**: MongoDB/MySQL (or your chosen database) for storing user data.
 
+  ![Game Interface](sample_images/image_1.PNG)
+![Progress Tracking](sample_images/image_2.PNG)
+
+
 ## Getting Started
 
 ### Clone the Repository:
@@ -30,24 +34,14 @@ git clone https://github.com/Kawinkawin/AI-Speech-Therapy-Game.git
 
 ```sh
 cd AI-Speech-Therapy-Game
-npm install  # or pip install -r requirements.txt if using Python
+pip install -r requirements.txt 
 ```
 
 ### Run the Application:
 
 ```sh
-npm start  # or python app.py if using Python
+streamlit run main.py
 ```
-
-## Contribution
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## License
 

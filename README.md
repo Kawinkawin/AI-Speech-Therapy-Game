@@ -18,8 +18,10 @@ This repository contains code for an AI-powered speech therapy game designed to 
 - **Backend**: Node.js/Python (or your preferred backend technology) for data management.
 - **Database**: MongoDB/MySQL (or your chosen database) for storing user data.
 
-  ![Game Interface](sample_images/image_1.PNG)
-![Progress Tracking](sample_images/image_2.PNG)
+## Screenshots
+
+- ![Game Interface](sample_images/image_1.PNG)
+- ![Progress Tracking](sample_images/image_2.PNG)
 
 
 ## Getting Started
